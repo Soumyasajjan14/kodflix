@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { fetchMovies, requests, imageUrl } from '../services/tmdb';
 import './Banner.css';
 

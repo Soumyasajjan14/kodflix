@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { fetchMovies, imageUrl } from '../services/tmdb';
 import './Row.css';
 
